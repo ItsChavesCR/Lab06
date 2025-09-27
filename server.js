@@ -24,7 +24,7 @@ const config = {
   authRequired: false,
   auth0Logout: true,
   secret: SECRET,
-  baseURL: 'https://lab06-azsc.onrender.com',
+  baseURL: 'https://localhost:3000',
   clientID: OKTA_CLIENT_ID,
   issuerBaseURL: OKTA_ISSUER_URI
 };
