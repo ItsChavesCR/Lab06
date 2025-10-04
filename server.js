@@ -24,7 +24,7 @@ const config = {
   authRequired: false,
   auth0Logout: true,
   secret: SECRET,
-  baseURL: APP_BASE_URL,
+  appBaseUrl: APP_BASE_URL,   
   clientID: OKTA_CLIENT_ID,
   issuerBaseURL: OKTA_ISSUER_URI
 };
